@@ -1,0 +1,39 @@
+[
+  {
+    "nombre": "angel",
+    "plataforma": "ps5",
+    "precio": 33.0,
+    "disponible": true,
+    "listaGeneros": [
+      "Supervivencia"
+    ]
+  },
+  {
+    "nombre": "denis",
+    "plataforma": "pc",
+    "precio": 10.0,
+    "disponible": false,
+    "listaGeneros": [
+      "Rol"
+    ]
+  },
+  {
+    "nombre": "joaquin",
+    "plataforma": "xbox",
+    "precio": 5.0,
+    "disponible": true,
+    "listaGeneros": [
+      "Aventura"
+    ]
+  },
+  {
+    "nombre": "david",
+    "plataforma": "Nintendo",
+    "precio": 20.0,
+    "disponible": true,
+    "listaGeneros": [
+      "Accion",
+      "Terror"
+    ]
+  }
+]

@@ -12,6 +12,7 @@ module org.example.pruebafx {
     requires com.almasb.fxgl.all;
     requires annotations;
     requires java.sql;
+    requires com.google.gson;
 
     opens org.example.pruebafx to javafx.fxml;
     exports org.example.pruebafx;

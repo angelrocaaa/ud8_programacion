@@ -22,7 +22,7 @@ public class Empresa {
         } catch (IOException e) {
             e.printStackTrace();
         }
-        
+
         try {
             ObjectInputStream lector = new ObjectInputStream(new FileInputStream(fichero));
             ArrayList<Empleado> listaRecuperada = (ArrayList<Empleado>) lector.readObject();
